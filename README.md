@@ -1,6 +1,5 @@
 ## Hi there 👋
 # Welcome to My GitHub Profile!
-
 ## About Me
 
 Hello! I'm MrJacob01, a passionate developer with experience in [Your Skills or Technologies]. I love working on innovative projects and contributing to the open-source community.
