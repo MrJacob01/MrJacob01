@@ -30,4 +30,4 @@ Hello! I'm MrJacob01, a passionate developer with experience in [Your Skills or 
 
 
 ## QR Code
-![QR Code](My Blog.png)
+![QR Code](images/My Blog.png)
