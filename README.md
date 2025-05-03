@@ -5,7 +5,7 @@
 Hello! I'm MrJacob01, a passionate developer with experience in [Your Skills or Technologies]. I love working on innovative projects and contributing to the open-source community.
 
 - 🔭 I’m currently working on Laravel-API by e-commerce project.
-- 🌱 I’m currently learning Laravel Rest Framework
+- 🌱 I’m learning new Machine Learning using tensorflow and frameworks
 - 👯 I’m looking to collaborate on Frontend Engineer
 - 🤔 I’m looking for help with any backend projects that based on PHP (Laravel) or Python
 - 📫 How to reach me: jacobabdulazizov@gmail.com
