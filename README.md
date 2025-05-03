@@ -28,6 +28,3 @@ Hello! I'm MrJacob01, a passionate developer with experience in [Your Skills or 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJacob01&layout=compact&theme=tokyonight)
 
-
-## QR Code
-![QR Code](https://github.com/MrJacob01/MrJacob01/blob/ff09f8c5bc261c8c917c321d0648a90cbec98348/My%20Blog.png)
