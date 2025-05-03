@@ -20,7 +20,7 @@ Hello! I'm MrJacob01, a passionate developer with experience in [Your Skills or 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jacob-abdulazizov-54b9bb34a])
 [![Telegram](https://img.shields.io/badge/Telegram?style=social&logo=https%3A%2F%2Fsimpleicons.org%2F%3Fmodal%3Dicon%26q%3Dtelegram
-)](https://[telegram.com](https://t.me/Developer_Jacob)
+)](https://t.me/Developer_Jacob)
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 ## GitHub Stats
