@@ -82,6 +82,6 @@ Hello! I'm MrJacob01, a passionate developer with experience in [Your Skills or 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJacob01&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJacob01&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJacob01&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJacob01&layout=compact&theme=tokyonight)
+
