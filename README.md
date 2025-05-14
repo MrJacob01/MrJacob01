@@ -10,7 +10,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
-
+<div align="center">
+  [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mrjacob01.github.io/Portfolio/)
+</div>
 ###
 ## About Me
 
@@ -82,7 +84,7 @@ Hello! I'm MrJacob01, a passionate developer with experience in [Your Skills or 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jacob-abdulazizov-54b9bb34a])
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Developer_Jacob)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mrjacob01.github.io/Portfolio/)
+
 
 ## GitHub Stats
 
