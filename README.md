@@ -1,11 +1,6 @@
 ## Hi there 👋 
 # Welcome to My GitHub Profile!
 <div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></div>
-<audio controls>
-  <source src="[https://example.com/music.mp3](https://m4a-64.jango.com/27/48/83/2748831713741268763.m4a)" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 
 ## Connect with Me
 
