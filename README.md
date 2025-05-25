@@ -1,7 +1,10 @@
 ## Hi there 👋 
 # Welcome to My GitHub Profile!
 <div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></div>
-
+<script>
+    var audio = new Audio('https://github.com/user/project/blob/main/audio/sound.mp3?raw=true');
+    audio.play();
+</script>
 
 
 ## Connect with Me
